@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185095644921",
+    "project_id": "payearn-677db",
+    "storage_bucket": "payearn-677db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185095644921:android:666bb3fdb414832deba428",
+        "android_client_info": {
+          "package_name": "com.payearn.payearn_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185095644921-1shm19q472tf8d8216006a6ld2bidi7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payearn.payearn_app",
+            "certificate_hash": "35ca1c0cdb6ee5e31011510c20cbcb41a4236da8"
+          }
+        },
+        {
+          "client_id": "185095644921-lfaotmtakprl404a5p0hl9h23cr1ako0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpKW4yCBzdzUAp5dhk_pdenxq7m5paW_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185095644921-lfaotmtakprl404a5p0hl9h23cr1ako0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7342584480433923~7132377225"
+    }
+  ],
+  "configuration_version": "1"
+}
